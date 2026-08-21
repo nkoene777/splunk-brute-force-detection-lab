@@ -47,7 +47,7 @@ Configured automated alerting for spikes in failed login activity.
 
 ### Understanding the data source and sourcetype
 
-I cofigured Splunk to monitor Windows Security Event Logs, which contain events such as login attempts and other security-related activity.
+I configured Splunk to monitor Windows Security Event Logs, which contain events such as login attempts and other security-related activity.
 
 Splunk assigns these events the sourcetype WinEventLog:Security.
 
