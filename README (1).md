@@ -15,7 +15,11 @@
 
 ### Project goals and motivation
 
+Project Summary
 
+I built a real-time SIEM security monitoring system using Splunk Enterprise to collect Windows Security Event Logs, detect failed login attempts, simulate a brute-force attack, and visualize suspicious authentication activity through a security dashboard.
+
+Workflow: Log Collection → Analysis → Detection → Visualization → Alerting
 
 ## Installing and Launching Splunk Enterprise
 
